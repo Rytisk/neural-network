@@ -4,3 +4,9 @@ E:\Projects\AI_NeuralNetwork_1\AI_NeuralNetwork_1\bin\Debug\AI_NeuralNetwork_1.p
 E:\Projects\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.csprojResolveAssemblyReference.cache
 E:\Projects\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.exe
 E:\Projects\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.pdb
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\bin\Debug\AI_NeuralNetwork_1.exe.config
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.exe
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.pdb
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\bin\Debug\AI_NeuralNetwork_1.exe
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\bin\Debug\AI_NeuralNetwork_1.pdb
+E:\Projects\neural-network\AI_NeuralNetwork_1\AI_NeuralNetwork_1\obj\Debug\AI_NeuralNetwork_1.csprojResolveAssemblyReference.cache

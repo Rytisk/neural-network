@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Initializer.cs" />
     <Compile Include="interfaces\INeuralLayer.cs" />
     <Compile Include="interfaces\INeuralNet.cs" />
     <Compile Include="interfaces\INeuron.cs" />
